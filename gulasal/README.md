@@ -1,4 +1,4 @@
-# Gulasal Kuchkarova, 22108200
+# Gulasal Kuchkarova, 
 # I have followed these tutorials to follow the weekly tasks
 ## Week 1 - 2
 #1 [Tic Tac Toe Using Python and Pygame (Part 1) | Creating the Screen Board](https://www.youtube.com/watch?v=pc7XhHxSgrM&t=15s)
